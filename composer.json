@@ -1,0 +1,9 @@
+{
+    "name": "genesis/config",
+    "description": "Simple way to manage config for multiple environments.",
+    "autoload": {
+        "psr-4": {
+            "Genesis\\Config\\": "src/"
+        } 
+    }
+}
